@@ -6,7 +6,7 @@
 ### <div align="center">I'm Cristian, a full-time full-stack developer🚀</div>  
   
 
-- 🚀 With my team we've made an e-commerce of exclusives sneakers [Link](https://snykers.vercel.app/)  
+- 🚀 With my team we've made an e-commerce of exclusives sneakers, it's called [snYKers](https://snykers.vercel.app/)  
   
 
 - 💻I've also made some others projects by my self as an APP called doggysAPP or pokeAPP, where you can filter, order o create a new one.   
